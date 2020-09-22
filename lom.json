@@ -1,19 +1,16 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"7.2",
+"Version":"3.5",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 "Url":"https://github.com/max-lom/laos/raw/master/file.zip" ,
 "Changelog":"
-จัดทำโดย:ล้อม
-พบไฟล์ใหม่ (05/09/2020)
-รองรับ ซิม TRUE & DTAC
-✅DTAC โปร SHOPEE
-✅TRUE โปร LINE
- 》》》TH VIP《《《
-ขอให้สนุกกับการใช้ Maxfreevpn
-
-
-
+💥พบไฟล์ใหม่ (17/06/2020)💥
+💯รองรับ ซิม TRUE & DTAC
+💯DTAC โปร SHOPEE
+💯TRUE โปร LINE
+💯มีไฟล์ฟรีเซิฟSG AUTO
+ไฟล์ใช้ proxy nordvpnทั้งหมด
+ 
 ",
  
  
